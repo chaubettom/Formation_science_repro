@@ -40,4 +40,4 @@ This project is released under the
 > Doe J (2024) Minimal structure of a research compendium.
 
 
-Je change le README
+Je change le README et je le développe
