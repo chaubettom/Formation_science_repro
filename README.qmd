@@ -39,5 +39,5 @@ This project is released under the
 
 > Doe J (2024) Minimal structure of a research compendium.
 
-Je change ici
-dsofn
+
+Je change le README
