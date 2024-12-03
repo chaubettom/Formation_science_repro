@@ -1,5 +1,12 @@
-
 # Untitled
+
+
+Le fichier lisez moi de mon entrainement pour la formation recherche
+reproductible
+
+WOOOOOOOOOOOOHOUUUUUUUUUU
+YEAHHHH
+helloooooo
 
 
 # Practice
@@ -33,15 +40,3 @@ license](https://choosealicense.com/licenses/gpl-2.0/).
 Je change le README et je le développe
 
 Maintenant je pense avoir compris
-
-
-=======
-# Untitled
-
-
-Le fichier lisez moi de mon entrainement pour la formation recherche
-reproductible
-
-WOOOOOOOOOOOOHOUUUUUUUUUU
-YEAHHHH
-
